@@ -1,2 +1,6 @@
 flask
+flask-sqlalchemy
 gunicorn
+stripe
+twilio
+flask-mail
